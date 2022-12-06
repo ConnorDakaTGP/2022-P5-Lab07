@@ -1,5 +1,4 @@
 import java.awt.*;
-import java.applet.*;
 public class Scenery {
     public static void drawSun(Graphics g){
         g.setColor(Color.YELLOW);
