@@ -9,10 +9,10 @@ public class Car extends Applet{
 
         Maincar.drawMainbody(g);
         Maincar.drawWheels(g);
-        Maincar.drawTrim(g);
-        Maincar.drawMods(g);
+        Maincar.drawVents(g);
+        Maincar.drawWindows(g);
 
-        Scenery.drawGrass(g);
-        Scenery.drawTrees(g);
+        Scenery.drawSun(g);
+        Scenery.drawCloud(g);
     }
 }
